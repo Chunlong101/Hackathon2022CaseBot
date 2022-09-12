@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Demo.aspx.cs" Inherits="HackathonDemo2022.Demo" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="demo.aspx.cs" Inherits="HackathonDemo2022.Demo" %>
 
 <!DOCTYPE html>
 <html>
